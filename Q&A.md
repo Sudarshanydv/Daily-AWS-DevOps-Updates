@@ -1,5 +1,9 @@
-**1. What is the AWS Command Line Interface (CLI)?
-**The AWS Command Line Interface (CLI) is a unified tool that allows you to interact with various AWS services using command-line commands.
+1. Q: What is computer networking?
+A: Networking means connecting two or more computers to share data, files, or resources.
+
+2. Q: What are the types of networks?
+A: LAN (Local Area Network), MAN (Metropolitan Area Network), and WAN (Wide Area Network).
+
 
 2. Why would you use the AWS CLI?
 The AWS CLI provides a convenient way to automate tasks, manage AWS resources, and interact with services directly from the command line, making it useful for scripting and administration.
