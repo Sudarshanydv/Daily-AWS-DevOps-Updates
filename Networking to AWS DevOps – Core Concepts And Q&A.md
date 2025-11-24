@@ -245,7 +245,7 @@ If you’re learning AWS & DevOps:
 | 45 | Selecting VPC CIDR | Depends on expected resources |
 | 46 | Benefit of subnetting in AWS | Security & efficient control |
 
-## 🧠 IP Address Classes & Ranges – Q&A Table (GitHub Format)
+## 🧠 IP Address Classes & Ranges
   | **Q.No** | **Question**                          | **Answer**                    |
 | -------- | ------------------------------------- | ----------------------------- |
 | 1        | What is Class A IP range?             | 1.0.0.0 – 126.255.255.255     |
@@ -301,5 +301,5 @@ If you’re learning AWS & DevOps:
 | 45   | Selecting VPC CIDR           | Depends on expected resources |
 | 46   | Benefit of subnetting in AWS | Security & efficient control  |
 
-Thank You So Much...!!!
+## Thank You So Much...!!!
 
