@@ -43,7 +43,7 @@ Its hierarchical file system and shell interface enable automation and scripting
 - Strong performance, security & troubleshooting capabilities
 
 ---
-# 📌 Linux Useful Commands – GitHub Table Format
+# 📌 Linux Useful Commands 
 
 | **Category** | **Command / Item** | **Description / Purpose** |
 |-------------|---------------------|----------------------------|
@@ -108,12 +108,7 @@ Its hierarchical file system and shell interface enable automation and scripting
 | **Scheduling** | `at 05:10 PM` | Schedule task |
 | | `echo "task" > file` | Apply at schedule |
 
-
-
-
-
-
-# 📡 Linux Networking, Services, Processes & Permissions – GitHub Table Format
+# 📡 Linux Networking, Services, Processes & Permissions
 
 | **Category** | **Command / Item** | **Description / Purpose** |
 |-------------|---------------------|----------------------------|
@@ -180,8 +175,8 @@ Its hierarchical file system and shell interface enable automation and scripting
 
 #DevOps #AWS #Linux #LearningJourney #CloudComputing #Automation #CareerGrowth #DevOpsEngineer
 
-## Name – Sudarshan Yadav, Contact - 7709877817
-## Email Id – sudarshanyadav4080@gmail.com
+### Name – Sudarshan Yadav, Contact - 7709877817
+### Email Id – sudarshanyadav4080@gmail.com
 GitHub: https://github.com/Sudarshanydv
 Dev.to Blog: https://dev.to/sudarshan_yadav
 LinkedIn: https://www.linkedin.com/in/sudarshan-yadav
