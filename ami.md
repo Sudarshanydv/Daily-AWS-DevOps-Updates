@@ -48,7 +48,6 @@ aws ec2 create-image \
   --description "AMI for my app" \
   --no-reboot
 
-
 ## 📌 Check AMI status:
 
 aws ec2 describe-images --image-ids ami-0abc1234
