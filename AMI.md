@@ -3,10 +3,7 @@
 ## Today, I learned about Amazon Machine Images (AMI) — and it’s a major building block for AWS & DevOps Engineering! 🤩
 ## I understood that an AMI is a pre-configured OS + software image used to launch EC2 instances quickly and consistently. It helps in standardizing environments and deploying servers at scale — especially in real-time DevOps and automation workflows.
 
-## 📌 Connect with me here:
- GitHub: https://lnkd.in/d2F3JPa3
- Dev.to Blog: https://lnkd.in/dNtgqAME
- LinkedIn: https://lnkd.in/d3NctxFT
+## GitHub: https://github.com/Sudarshanydv Dev.to Blog: https://dev.to/sudarshan_yadav LinkedIn: https://www.linkedin.com/in/sudarshan-yadav Resume (Drive) - https://drive.google.com/file/d/1jas-UeQuCSR6OZCP6pAPTnLiWcJiAVk1/view?usp=drive_link
 ---
 
 ## 1️⃣ Prepare a Source EC2 Instance
