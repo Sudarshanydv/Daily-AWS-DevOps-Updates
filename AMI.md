@@ -124,12 +124,13 @@ Delete snapshot(s)
 bash
 Copy code
 aws ec2 delete-snapshot --snapshot-id snap-0123456789abcdef0
-1️⃣1️⃣ Useful Commands Summary
-Purpose	Command Example
-Create AMI	aws ec2 create-image
-List AMIs	aws ec2 describe-images --owners self
-Launch instance	aws ec2 run-instances
-Share AMI	aws ec2 modify-image-attribute
-Copy to region	aws ec2 copy-image
-Deregister AMI	aws ec2 deregister-image
-List snapshots	aws ec2 describe-snapshots
+| Purpose         | Command Example                         |
+| --------------- | --------------------------------------- |
+| Create AMI      | `aws ec2 create-image`                  |
+| List AMIs       | `aws ec2 describe-images --owners self` |
+| Launch instance | `aws ec2 run-instances`                 |
+| Share AMI       | `aws ec2 modify-image-attribute`        |
+| Copy to region  | `aws ec2 copy-image`                    |
+| Deregister AMI  | `aws ec2 deregister-image`              |
+| List snapshots  | `aws ec2 describe-snapshots`            |
+
