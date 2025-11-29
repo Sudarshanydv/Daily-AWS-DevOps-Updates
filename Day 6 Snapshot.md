@@ -33,19 +33,32 @@ This repo contains a very simple explanation of AWS Snapshots for quick referenc
 - Database backup  
 - Database disaster recovery
 ________________________________________
-## 🔹 Important Things to Remember
-Feature	Meaning
-Incremental	Only changed data stored → saves cost
-Encrypted	Can protect data with KMS
-Cross-Region Copy	Useful for disaster recovery
-Manual Delete	Old snapshots cost money → delete when not needed
-________________________________________
-## 🔥 Simple One-Line Answer for Interview
-“Snapshot is a point-in-time backup of AWS storage like EBS and RDS. We take snapshots before changes and restore them when needed for backup and disaster recovery.”
-🔗 Connect With Me
-GitHub: https://lnkd.in/d2F3JPa3
-Dev.to Blog: https://lnkd.in/dNtgqAME
-LinkedIn: https://lnkd.in/d3NctxFT
-Resume (Google Drive): https://lnkd.in/dHDNsd_D
+# AWS Snapshot — Quick Revision Guide 🚀
 
-… Thank You …
+## 🔹 Important Things to Remember
+
+| Feature | Meaning |
+|--------|---------|
+| Incremental | Only changed data stored → saves cost |
+| Encrypted | Can protect data with KMS |
+| Cross-Region Copy | Useful for disaster recovery |
+| Manual Delete | Old snapshots cost money → delete when not needed |
+
+---
+
+## 🔥 Simple One-Line Answer for Interview
+
+> **“Snapshot is a point-in-time backup of AWS storage like EBS and RDS. We take snapshots before changes and restore them when needed for backup and disaster recovery.”**
+
+---
+
+## 🔗 Connect With Me
+
+- **GitHub:** https://lnkd.in/d2F3JPa3  
+- **Dev.to Blog:** https://lnkd.in/dNtgqAME  
+- **LinkedIn:** https://lnkd.in/d3NctxFT  
+- **Resume (Google Drive):** https://lnkd.in/dHDNsd_D  
+
+---
+
+… **Thank You** 🙌
