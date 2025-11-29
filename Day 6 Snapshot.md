@@ -1,7 +1,7 @@
 ## Name – Sudarshan Yadav, Contact - 7709877817
 ## Email Id – sudarshanyadav4080@gmail.com
 
-# AWS Snapshots — Simple Guide
+# AWS Snapshots — Simple Guide �
 
 This repo contains a very simple explanation of AWS Snapshots for quick reference.
 
@@ -32,8 +32,7 @@ This repo contains a very simple explanation of AWS Snapshots for quick referenc
 **Used for:**
 - Database backup  
 - Database disaster recovery
-________________________________________
-# AWS Snapshot — Quick Revision Guide 🚀
+_______________________________________
 
 ## 🔹 Important Things to Remember
 
