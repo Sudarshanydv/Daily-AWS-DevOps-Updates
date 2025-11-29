@@ -1,38 +1,39 @@
 ## Name – Sudarshan Yadav, Contact - 7709877817
 ## Email Id – sudarshanyadav4080@gmail.com
 
-# AWS Snapshot
+# AWS Snapshots — Simple Guide
 
-## AWS Snapshot — Simple Step-by-Step
-What is a Snapshot?
-A snapshot is a backup of your storage in AWS.
-Mostly used for:
-•	EBS Volume backup (EC2 disks)
-•	RDS Database backup
-•	Creating AMI for new servers
-________________________________________
+This repo contains a very simple explanation of AWS Snapshots for quick reference.
+
 ## 🔹 EBS Snapshot (EC2 Disk Backup)
-Steps:
-1️⃣ Select an EBS Volume
-2️⃣ Click Create Snapshot
-3️⃣ Snapshot gets stored in S3 (internally by AWS)
-4️⃣ You can restore that snapshot to a new EBS Volume
-5️⃣ Attach the volume to any EC2 instance and use it again
-Simple example:
-•	Before updating server → take snapshot
-•	If update fails → restore snapshot → server comes back to old state
-________________________________________
+
+**Steps:**
+1. Select an EBS Volume  
+2. Click **Create Snapshot**  
+3. Snapshot gets stored in S3 (internally by AWS)  
+4. You can restore that snapshot to a new EBS Volume  
+5. Attach the volume to any EC2 instance and use it again
+
+**Simple example:**
+
+- Before updating server → take snapshot  
+- If update fails → restore snapshot → server comes back to old state
+
+---
+
 ## 🔹 RDS Snapshot (Database Backup)
-Steps:
-1️⃣ Select RDS Database
-2️⃣ Click Take Snapshot
-3️⃣ AWS stores backup of the full DB
-4️⃣ You can restore DB anytime from that snapshot
-Used for:
-•	Database backup
-•	Database disaster recovery
+
+**Steps:**
+1. Select RDS Database  
+2. Click **Take Snapshot**  
+3. AWS stores backup of the full DB  
+4. You can restore DB anytime from that snapshot
+
+**Used for:**
+- Database backup  
+- Database disaster recovery
 ________________________________________
-🔹 Important Things to Remember
+## 🔹 Important Things to Remember
 Feature	Meaning
 Incremental	Only changed data stored → saves cost
 Encrypted	Can protect data with KMS
