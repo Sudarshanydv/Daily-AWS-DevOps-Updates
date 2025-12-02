@@ -31,7 +31,7 @@ Allows private subnet instances to access the internet outbound only, but blocks
 Controls how traffic flows between subnets and external networks.
 
 ### 6️⃣ Security Groups
-
+ 
 Firewall that controls traffic for individual resources (EC2, RDS).
 Works at instance level.
 
