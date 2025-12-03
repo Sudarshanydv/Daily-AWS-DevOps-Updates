@@ -1,6 +1,6 @@
 # 📌 AWS EBS Volume Mounting – Step-by-Step Guide
 
-**Date:** 01/08/2024  
+**Date:** 01/08/2024   
 **Topic:** How to create, attach, mount, unmount, and reuse an EBS Volume in AWS
 
 --- 
