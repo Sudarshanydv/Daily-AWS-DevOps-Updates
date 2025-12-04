@@ -1,47 +1,21 @@
-Day 7 | Today, I learned about EBS Volume Mounting on EC2 — and it’s a key skill for managing persistent storage in AWS! 🔥
-
+## Day 7 | Today, I learned about EBS Volume Mounting on EC2 — and it’s a key skill for managing persistent storage in AWS! 🔥
 I learned how to attach, mount, unmount, and re-attach an EBS Volume to an EC2 instance to ensure data remains safe — even if the instance is stopped or restarted. 💾
-
 This is extremely useful in real DevOps environments where applications need reliable and durable storage.
 
-👉 Key things I learned today:
+## 👉 Key things I learned today:
 
 What an EBS Volume is and why it’s important
-
 Block-level storage that behaves like a virtual hard disk
-
 Data stays safe even after Unmount / EC2 Stop
-
 Formatting volume with EXT4 / XFS
-
 Using lsblk to verify attached disks
-
 Safe unmounting before detaching to avoid data corruption
-
 Volume can be attached to another EC2 instance easily
-
 Perfect for databases, logs & application storage
-
 This learning boosted my confidence in understanding data persistence in AWS & DevOps workflows. 🚀💪
 Every day = One step closer to becoming a Cloud Expert ☁️✨
-
 If you found this helpful, let’s connect and learn together! 🤝😊
 Learning grows when shared! 💙
-
-🔗 Connect With Me
-GitHub: https://lnkd.in/d2F3JPa3
-
-Dev.to Blog: https://lnkd.in/dNtgqAME
-
-LinkedIn: https://lnkd.in/d3NctxFT
-
-Resume (Google Drive): https://lnkd.in/dHDNsd_D
-
-🔖 Hashtags
-
-hashtag#AWS hashtag#DevOps hashtag#CloudComputing hashtag#AWSLearning
-hashtag#EBS hashtag#VolumeMounting hashtag#DataPersistence
-hashtag#LearningJourney hashtag#CareerGrowth hashtag#DevOpsEngineer hashtag#AWSCommunity
 
 # 📌 AWS EBS Volume Mounting – Step-by-Step Guide
 
@@ -153,3 +127,14 @@ Mount again:
 
 sudo mkdir /home/ec2-user/test
 sudo mount /dev/xvdf /home/ec2-user/test
+
+## 🔗 Connect With Me
+GitHub: https://lnkd.in/d2F3JPa3
+Dev.to Blog: https://lnkd.in/dNtgqAME
+LinkedIn: https://lnkd.in/d3NctxFT
+Resume (Google Drive): https://lnkd.in/dHDNsd_D
+
+## 🔖 Hashtags
+hashtag#AWS hashtag#DevOps hashtag#CloudComputing hashtag#AWSLearning
+hashtag#EBS hashtag#VolumeMounting hashtag#DataPersistence
+hashtag#LearningJourney hashtag#CareerGrowth hashtag#DevOpsEngineer hashtag#AWSCommunity
