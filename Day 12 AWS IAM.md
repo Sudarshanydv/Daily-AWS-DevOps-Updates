@@ -91,6 +91,7 @@ Roles are used by **machines**, not humans.
 A policy is a JSON document that defines allowed actions.
 
 ### **Example Policy:**
+
 ```json
 {
   "Version": "2012-10-17",
@@ -102,8 +103,8 @@ A policy is a JSON document that defines allowed actions.
     }
   ]
 }
-
-
+```
+---
 ## ✅ 4. Attach Policies (Permissions)
 
 ### **Steps:**
@@ -150,3 +151,17 @@ IAM Access Analyzer identifies security risks like **public S3 buckets** or **ov
 | Monitoring              | Yes           | CloudWatch permissions           |
 
 ---
+
+## Thank You
+
+## 🔗 Connect With Me
+| 🌐 Platform                  | 🔗 Link                                              |
+| ---------------------------- | ---------------------------------------------------- |
+| 🐙 **GitHub**                | [https://lnkd.in/d2F3JPa3](https://lnkd.in/d2F3JPa3) |
+| ✍️ **Dev.to Blog**           | [https://lnkd.in/dNtgqAME](https://lnkd.in/dNtgqAME) |
+| 💼 **LinkedIn**              | [https://lnkd.in/d3NctxFT](https://lnkd.in/d3NctxFT) |
+| 📄 **Resume (Google Drive)** | [https://lnkd.in/dHDNsd_D](https://lnkd.in/dHDNsd_D) |
+
+## 🔖 Hashtags
+#AWS #DevOps #CloudComputing #AWSLearning #EBS #VolumeMounting #DataPersistence #LearningJourney #CareerGrowth #DevOpsEngineer #AWSCommunity
+
