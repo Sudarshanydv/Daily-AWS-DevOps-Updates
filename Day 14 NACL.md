@@ -1,5 +1,5 @@
 # 📅 Day 14 | AWS NACL — Subnet-Level Security in AWS 🔐
-
+ 
 **NACL (Network Access Control List)** is a subnet-level firewall in AWS VPC.  
 It controls what traffic is allowed **in and out of each subnet**, acting like a security gate at the subnet boundary.
 
