@@ -166,8 +166,6 @@ resource "aws_network_acl_rule" "allow_ssh_in" {
   from_port      = 22
   to_port        = 22
 }
-```
-## Thank You
 
 resource "aws_network_acl_rule" "allow_all_out" {
   network_acl_id = aws_network_acl.public_nacl.id
@@ -179,3 +177,6 @@ resource "aws_network_acl_rule" "allow_all_out" {
   from_port      = 0
   to_port        = 0
 }
+
+```
+## Thank You
