@@ -114,9 +114,6 @@ These services help in building decoupled, scalable, and reliable systems.
 ## ⭐ Final Interview Line
 > **SNS is for sending messages, SQS is for queuing messages until they are processed.**
 
-
-## Thank You
-
 ---
 
 ## Thank You
