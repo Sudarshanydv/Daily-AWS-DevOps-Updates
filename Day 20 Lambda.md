@@ -12,7 +12,7 @@ AWS Lambda is a core service in **modern DevOps and cloud-native architectures**
 
 AWS Lambda allows you to run code in response to **events**.
 
-You can use Lambda to:
+You can use Lambda to: 
 
 * Process files
 * Handle API requests
