@@ -53,7 +53,7 @@ CloudFront helps by:
 3. CloudFront checks cache:
    - If content exists → serve immediately
    - If not → request goes to **Origin**
-4. Origin sends data to CloudFront
+4. Origin sends data to CloudFront 
 5. CloudFront caches the data and delivers it to the user
 6. Next users get cached content faster
 
