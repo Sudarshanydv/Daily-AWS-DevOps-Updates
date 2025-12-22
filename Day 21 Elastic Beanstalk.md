@@ -169,3 +169,21 @@ Features:
 ## Interview One-Line Answer
 
 > *AWS Elastic Beanstalk is a PaaS service that allows developers and DevOps engineers to deploy and manage applications without managing infrastructure. It automatically handles EC2, load balancing, auto scaling, monitoring, and supports multiple deployment strategies.*
+>
+> ## Thank You
+
+## 🔗 Connect With Me
+| 🌐 Platform                  | 🔗 Link                                              |
+| ---------------------------- | ---------------------------------------------------- |
+| 🐙 **GitHub**                | [https://lnkd.in/d2F3JPa3](https://lnkd.in/d2F3JPa3) |
+| ✍️ **Dev.to Blog**           | [https://lnkd.in/dNtgqAME](https://lnkd.in/dNtgqAME) |
+| 💼 **LinkedIn**              | [https://lnkd.in/d3NctxFT](https://lnkd.in/d3NctxFT) |
+| 📄 **Resume (Google Drive)** | [https://lnkd.in/dHDNsd_D](https://lnkd.in/dHDNsd_D) |
+
+## 🔖 Hashtags
+#AWS #DevOps #CloudComputing #AWSLearning #EBS #VolumeMounting #DataPersistence #LearningJourney #CareerGrowth #DevOpsEngineer #AWSCommunity
+
+---
+
+⭐ If you like this guide, don’t forget to star the repo!
+
