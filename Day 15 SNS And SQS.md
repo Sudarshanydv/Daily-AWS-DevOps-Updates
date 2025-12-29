@@ -25,7 +25,7 @@ These services help in building decoupled, scalable, and reliable systems.
 ### Subscribers Can Be 
 - Email  
 - SMS  
-- AWS Lambda   
+-  AWS Lambda   
 - HTTP / HTTPS  
 - SQS  
 
