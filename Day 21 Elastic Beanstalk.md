@@ -19,7 +19,7 @@ You just upload your **application code**, and Elastic Beanstalk automatically h
 * Auto Scaling  
 * Monitoring 
 * Application updates 
-
+ 
 ---
  
 ## Why DevOps Engineers Use Elastic Beanstalk 
